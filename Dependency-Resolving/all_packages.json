@@ -1,0 +1,7 @@
+{
+	"jQuery":["queryJ"],
+	"lodash":[],
+	"underscore":["lodash"],
+	"queryJ":[],
+	"backbone":["jQuery","underscore"]
+}
